@@ -54,7 +54,7 @@ g. Enemy AI/Behavioral Model
 *   They have high morale, fueled by the desire to protect their commander and secure victory.
 *   Communication occurs via messengers and signal flags. Disrupting these lines sows confusion.
 
-## 3. Objectives
+## 3. Goals & Objectives
 
 a. Enter & Disrupt the Chakravyuha enough to spare the Pandava forces from destruction. Disruption is defined as:
 
