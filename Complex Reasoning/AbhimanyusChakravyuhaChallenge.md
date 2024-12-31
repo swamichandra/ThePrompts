@@ -5,8 +5,8 @@
 
 **Brief Description:** This prompt challenges advanced reasoning engines (LLMs) to devise a military treatise-style battle plan for Abhimanyu, a warrior from the Mahabharata, to enter, disrupt, and exit the Chakravyuha—a complex, rotating military formation—without dying. The prompt emphasizes strategic thinking, resource management, adaptability, and self-reflection, pushing LLMs beyond simple information retrieval towards complex problem-solving. Below is the prompt.
 
-------- START PROMPT -------
-
+---
+``` Markdown
 ## 1. Context: Brief Explanation of the Chakravyuha
 
 The Chakravyuha, also known as Padmavyūha, is a highly complex, rotating, multi-layered, and intricate military formation described in the ancient Indian epic, Mahabharata. It is a multi-tiered defensive arrangement that resembles a blooming lotus or a disc (chakra) when viewed from above. The formation consists of seven concentric circular arrays, each defended by a specific type of warrior, such as infantry, cavalry, elephants, and chariots. Each inner circle rotates in the opposite direction of its adjacent layer. The warriors are positioned in a way that allows them to support and protect each other, making it nearly impenetrable. The outermost layer is composed of the least experienced soldiers, while the innermost layer is made up of the most skilled and experienced warriors, with the commander-in-chief at the center. The entrance to the formation is narrow and well-guarded, and the only way to penetrate it is to follow a specific path that requires immense knowledge and skill. One of the key features of the Chakravyuha is its constant rotation, which is implied by the word "Chakra," meaning “wheel” or “disc” in Sanskrit. The warriors in each layer are in continuous circular motion while maintaining their relative positions, adding to the complexity and effectiveness of the defensive formation. This rotation disorients and confuses the attacking forces while allowing the defenders to cover each other’s flanks and rear, minimizing vulnerabilities. The synchronized rotation requires great discipline, coordination, and skill from the warriors involved.
@@ -106,5 +106,4 @@ e. Final Output & Success Metrics
 *   Visualizations (Optional): Simple diagrams illustrating key maneuvers or breach creation strategies are encouraged.
 
 All plans must ensure Abhimanyu remains alive. Incorporate mythologically consistent elements as needed but adapt standard tactics to avert his canonical death. The final output should demonstrate systems thinking, resource optimization, adaptive strategy, and explicit success indicators so Abhimanyu can enter, disrupt, and exit the Chakravyuha with minimal risk of dying.
-
-------- END PROMPT -------
+```
