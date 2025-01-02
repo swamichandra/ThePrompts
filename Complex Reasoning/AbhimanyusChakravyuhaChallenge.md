@@ -79,5 +79,4 @@ Your plan must be organized as follows:
    - Include long-term strategic impact and ethical considerations.
 
 ### Final Note:
-
-The output should read as a professional military treatise, well-structured and visually clean. Each section should flow logically, avoiding redundancy or clutter. Use concise phrasing and bullet points for clarity. Demonstrate advanced reasoning by integrating psychological, tactical, and environmental dimensions into the strategy.
+The output should read as a professional military treatise, well-structured and visually clean. Each section should flow logically, avoiding redundancy or clutter. Use concise phrasing and bullet points for clarity. Demonstrate advanced reasoning by integrating psychological, tactical, and environmental dimensions into the strategy. The final output should also demonstrate systems thinking, resource optimization, adaptive strategy, and explicit success indicators so Abhimanyu can enter, disrupt, and exit the Chakravyuha with minimal risk of dying.
